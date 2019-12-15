@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 jester/
 data/
+fmrl-data/
+
